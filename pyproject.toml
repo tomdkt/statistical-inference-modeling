@@ -9,6 +9,7 @@ dependencies = [
     "pandas>=3.0.0",
     "pandas-stubs>=3.0.0.260204",
     "protobuf>=6.33.5",
+    "scikit-learn>=1.8.0",
     "scipy-stubs>=1.17.0.2",
     "seaborn>=0.13.2",
     "statsmodels>=0.14.6",
